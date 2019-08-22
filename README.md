@@ -8,5 +8,5 @@ Nome do repositorio: brabin-ff
 marcelo16.github.io/brabin-ff
 
 Paginas:
-*home
-*brabin
+* Home
+* Brabin
