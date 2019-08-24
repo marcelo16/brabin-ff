@@ -18,6 +18,7 @@ html, body {
 body {
     overflow-y: auto;
 }
+
 header {
     background: #607D8B;
     width: 100%;
@@ -29,5 +30,25 @@ header img.logo {
     height: 107px;
     width: 76px;
     position: absolute;
-    left:  40px;
+    left: 40px;
+}
+
+header nav {
+    width: auto;
+    display: table;
+    margin: 0 auto;
+    position: relative;
+    top: 80%;
+
+}
+
+header nav a {
+    text-transform: capitalize;
+    font-family: Bangers, sans-serif;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 1em;
+
 }
